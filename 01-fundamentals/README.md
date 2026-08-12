@@ -1,0 +1,3 @@
+# Fundamentals
+
+JavaScript fundamentals exercises.
