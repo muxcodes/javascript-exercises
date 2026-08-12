@@ -1,0 +1,3 @@
+# ⚙️ Functions
+
+JavaScript function exercises.
